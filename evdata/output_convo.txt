@@ -1,0 +1,7 @@
+HUMAN ++++ how are you?
+BOT ++++ cho bạn thấy thế nào ?
+HUMAN ++++ it such a big community
+BOT ++++ cho nên tôi đã trở thành một cộng đồng lớn .
+HUMAN ++++ who are you?
+BOT ++++ cho bạn thì ai ?
+=============================================
